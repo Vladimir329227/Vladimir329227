@@ -22,7 +22,7 @@ I am a student from Orenburg, studying at Moscow Aviation Institute (MAI) in the
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ## Projects Statistics
-![Projects Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Projects Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladimir329227&layout=compact)
 
 ## Old GitHub Account
 You can check out my old GitHub account [here](https://github.com/Vov83654518).
@@ -32,4 +32,3 @@ You can check out my old GitHub account [here](https://github.com/Vov83654518).
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/yourusername/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
