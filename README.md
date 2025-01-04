@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vladimir 👋
 
 ## About Me
 I am a student from Orenburg, studying at Moscow Aviation Institute (MAI) in the field of Fundamental Informatics and Information Technology. Currently, I work at RTI named after Minz and program radars. I am looking for startups to join.
