@@ -29,6 +29,3 @@ You can check out my old GitHub account [here](https://github.com/Vov83654518).
 
 ## Contact Me
 - Email: poch961rabot1@gmail.com
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/yourusername/)
